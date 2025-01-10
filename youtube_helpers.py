@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "XXXX"
+API_KEY = "djkdLrx4KNpaHXp4FNs1d4Z4"
 
 def get_youtube_transcript_with_searchapi(video_id):
     """
